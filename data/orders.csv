@@ -1,0 +1,11 @@
+order_id,country,product_name,category,delivery_days_ago,item_status
+MW1001,UAE,Baby Stroller,strollers,2,delivered
+MW1002,KSA,Diapers Pack,diapers,5,delivered
+MW1003,UAE,Baby Monitor,electronics,3,delivered
+MW1004,UAE,Feeding Bottle,baby_feeding,20,delivered
+MW1005,Kuwait,Baby Lotion,personal_care,1,delivered
+MW1006,UAE,Toy Blocks,toys,10,delivered
+MW1007,Qatar,Car Seat,car_seats,4,delivered
+MW1008,UAE,Baby Clothes,clothing,16,delivered
+MW1009,Bahrain,Pacifier Set,baby_feeding,6,delivered
+MW1010,UAE,Kids Shoes,shoes,8,delivered
